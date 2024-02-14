@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/ymatips" target="blank"><img src="https://img.shields.io/twitter/follow/ymatips?logo=twitter&style=for-the-badge" alt="ymatips" /></a> </p>
 
-- 🔭 I’m currently working on **Yma Digital**
 
 - 🌱 I’m currently learning **Python , ALX Data science , ALX SE**
 
