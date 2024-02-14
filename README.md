@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python , ALX Data science , ALX SE**
 
-- 👨‍💻 All of my projects are available at [https://ymadigital.com/](https://ymadigital.com/)
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **contact@ymadigital.com**
