@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafidaso&label=Profile%20views&color=0e75b6&style=flat" alt="hafidaso" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ymatips" target="blank"><img src="https://img.shields.io/twitter/follow/ymatips?logo=twitter&style=for-the-badge" alt="ymatips" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/company/76527103" target="blank"><img src="https://img.shields.io/twitter/follow/ymatips?logo=twitter&style=for-the-badge" alt="ymadigital" /></a> </p>
 
 
 - 🌱 I’m currently learning **Python , ALX Data science , ALX SE**
