@@ -33,4 +33,4 @@
 
 
 
-https://github-profile-trophy.vercel.app/?hafidaso=ryo-ma&theme=juicyfresh
+[![trophy](https://github-profile-trophy.vercel.app/?Hafidaso=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
