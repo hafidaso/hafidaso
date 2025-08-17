@@ -32,7 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafidaso&show_icons=true&locale=en" alt="hafidaso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafidaso&" alt="hafidaso" /></p>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?Hafidaso=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
