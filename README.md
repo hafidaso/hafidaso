@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafida Belayd</h1>
 <h3 align="center">Data Analyst & AI Specialist | Developer & Designer from Morocco</h3>
-<img align="right" alt= "Python" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt= "Hafida Belayd" width="400" src="_.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafidaso&label=Profile%20views&color=0e75b6&style=flat" alt="hafidaso" /> </p>
 
