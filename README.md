@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafidaso&show_icons=true&locale=en" alt="hafidaso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafidaso&" alt="hafidaso" /></p>
+
+
+
+https://github-profile-trophy.vercel.app/?hafidaso=ryo-ma&theme=juicyfresh
