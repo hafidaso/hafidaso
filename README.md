@@ -26,6 +26,22 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 ---
 
+### ✨ بصمتي الخاصة | My Personal Touch
+
+<p align="right" dir="rtl">
+"أؤمن أن البيانات هي لغة المستقبل، ولكن التصميم هو الروح التي تمنحها المعنى. هدفي هو تحويل الأرقام الجامدة إلى قصص ملهمة وتجارب رقمية فريدة."
+</p>
+
+> **"I believe data is the language of the future, but design is the soul that gives it meaning. My mission is to transform raw numbers into inspiring stories and unique digital experiences."**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Philosophy-Data_Storytelling-blueviolet?style=for-the-badge&logo=micro-strategy" />
+  <img src="https://img.shields.io/badge/Identity-Proudly_Moroccan-red?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Method-AI_%2B_Design-ff69b4?style=for-the-badge&logo=artstation" />
+</div>
+
+---
+
 ### 🔭 Research & Interests
 
 <div align="center">
