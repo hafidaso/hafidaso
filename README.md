@@ -49,15 +49,15 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 ---
 
-### 📊 Performance Metrics
+### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafidaso&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Hafida's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidaso&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2196F3&text_color=ffffff" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafidaso&show_icons=true&theme=tokyonight" alt="Hafida's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidaso&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidaso&theme=transparent&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidaso&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <div align="center">
