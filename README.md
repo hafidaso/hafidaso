@@ -26,11 +26,7 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 ---
 
-### ✨ بصمتي الخاصة | My Personal Touch
-
-<p align="right" dir="rtl">
-"أؤمن أن البيانات هي لغة المستقبل، ولكن التصميم هو الروح التي تمنحها المعنى. هدفي هو تحويل الأرقام الجامدة إلى قصص ملهمة وتجارب رقمية فريدة."
-</p>
+### ✨ My Personal Touch
 
 > **"I believe data is the language of the future, but design is the soul that gives it meaning. My mission is to transform raw numbers into inspiring stories and unique digital experiences."**
 
@@ -148,7 +144,7 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 ---
 
-### 🎧 الحالة الإبداعية | Creative Vibe
+### 🎧 Creative Vibe
 
 <div align="center">
   <table>
