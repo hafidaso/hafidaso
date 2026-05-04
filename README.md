@@ -82,13 +82,13 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 ### 🤝 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hafida-belayd" target="blank">
+  <a href="https://www.linkedin.com/in/hafida-belayd/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://hafida-belayd.netlify.app/" target="blank">
+  <a href="https://hafida-belayd.me/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.behance.net/hafidabelayd" target="blank">
+  <a href="https://www.behance.net/hafidabelaid" target="blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="mailto:hafidabelaidagnaoui@gmail.com">
