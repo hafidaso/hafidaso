@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Morocco-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Generative_AI-blue?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Tech-IoT_%26_Robotics-informational?style=for-the-badge&logo=arduino" />
   <img src="https://img.shields.io/badge/Status-Active_Research-success?style=for-the-badge" />
 </p>
 
@@ -16,12 +17,12 @@
 
 ### 🧬 Professional Profile
 
-I am a **Data Scientist** and **AI Architect** dedicated to building the next generation of intelligent systems. At **Yma Digital**, I specialize in transforming raw data into actionable intelligence through advanced Machine Learning and intuitive Design.
+I am a **Data Scientist** and **AI Architect** dedicated to building the next generation of intelligent systems. At **Yma Digital**, I specialize in transforming raw data into actionable intelligence through advanced Machine Learning, intuitive Design, and **IoT integration**.
 
 - 🤖 **Deep Dive:** Currently architecting **RAG (Retrieval-Augmented Generation)** systems and **Agentic AI** workflows.
 - ⚡ **Performance:** Building high-speed data pipelines and scalable web interfaces using **Next.js 14+** and **FastAPI**.
+- 📡 **IoT & Edge:** Developing smart monitoring solutions using **Arduino** and **Raspberry Pi** for real-time data acquisition.
 - 🧪 **Research Interests:** Computer Vision, NLP, and the intersection of AI with Creative Arts.
-- 🌐 **Global Reach:** Open to collaborating on open-source AI projects and innovative data products.
 
 ---
 
@@ -71,8 +72,8 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Alpha](https://github.com/hafidaso)** | Real-time AI analysis of complex data streams. | `Python` `FastAPI` `React` |
-| **[Project Beta](https://github.com/hafidaso)** | Creative data visualization dashboard for medical KPIs. | `Next.js` `D3.js` `Tailwind` |
+| **[AI Data Stream](https://github.com/hafidaso)** | Real-time AI analysis of complex data streams. | `Python` `FastAPI` `React` |
+| **[Smart IoT Hub](https://github.com/hafidaso)** | Integrated monitoring system for industrial sensors. | `Arduino` `Python` `Firebase` |
 
 </div>
 
@@ -94,10 +95,6 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<br/>
-
-
 
 <p align="center">
   <i>"Transforming data into art and intelligence."</i>
