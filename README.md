@@ -49,11 +49,11 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 ---
 
-### 📊 GitHub Performance
+### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafidaso&show_icons=true&theme=tokyonight" alt="Hafida's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidaso&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafidaso&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafidaso&theme=tokyonight" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
