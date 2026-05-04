@@ -30,9 +30,10 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center"><b>Generative AI</b><br/>LLMs, Diffusion Models</td>
-      <td width="33%" align="center"><b>Data Engineering</b><br/>ETL, Big Data, SQL</td>
-      <td width="33%" align="center"><b>Creative Tech</b><br/>3D Design, UI/UX</td>
+      <td width="25%" align="center"><b>Generative AI</b><br/>LLMs, Diffusion Models</td>
+      <td width="25%" align="center"><b>Data Engineering</b><br/>ETL, Big Data, SQL</td>
+      <td width="25%" align="center"><b>Embedded & IoT</b><br/>Arduino, Sensors, Automation</td>
+      <td width="25%" align="center"><b>Creative Tech</b><br/>3D Design, UI/UX</td>
     </tr>
   </table>
 </div>
@@ -42,7 +43,7 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 ### 🛠️ Tech Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,mysql,postgres,firebase,flask,fastapi,opencv,tensorflow,pytorch,sklearn,pandas,html,css,react,nextjs,tailwind,figma,ps,ai,blender,git,linux,docker,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,c,mysql,postgres,firebase,flask,fastapi,opencv,tensorflow,pytorch,sklearn,pandas,html,css,react,nextjs,tailwind,figma,ps,ai,blender,arduino,raspberrypi,git,linux,docker,nginx&theme=dark" />
 </div>
 
 ---
@@ -96,9 +97,7 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hafidaso/hafidaso/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 
 <p align="center">
   <i>"Transforming data into art and intelligence."</i>
