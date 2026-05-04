@@ -65,6 +65,36 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 ---
 
+### ⚙️ سير العمل والقيم | Workflow & Core Values
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-Expert-brightgreen?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Team_Collaboration-Seamless-blue?style=for-the-badge&logo=google-meet" />
+  <img src="https://img.shields.io/badge/Creative_Thinking-Advanced-orange?style=for-the-badge&logo=lightbulb" />
+  <img src="https://img.shields.io/badge/Agile_Mindset-Iterative-yellow?style=for-the-badge&logo=jira" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🛠️ <b>منهجية العمل</b></td>
+      <td>أعتمد على منهجية الـ <b>Agile</b> لضمان سرعة التنفيذ وجودة المخرجات.</td>
+    </tr>
+    <tr>
+      <td>💡 <b>الفلسفة التقنية</b></td>
+      <td>الكود النظيف والتصميم البسيط هما مفتاح النجاح لأي منتج ذكي.</td>
+    </tr>
+    <tr>
+      <td>🤝 <b>التعاون</b></td>
+      <td>أؤمن بقوة العمل الجماعي ومشاركة المعرفة مع مجتمع المطورين.</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📊 GitHub Analysis
 
 <p align="center">
@@ -114,5 +144,26 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 <p align="center">
   <i>"Transforming data into art and intelligence."</i>
+</p>
+
+---
+
+### 🎧 الحالة الإبداعية | Creative Vibe
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Soundtrack</b><br/>🎵 <a href="https://open.spotify.com/playlist/37i9dQZF1DWZeKzbUnE3Yv" target="_blank">Lo-Fi Beats</a></td>
+      <td align="center"><b>Fuel</b><br/>☕ Black Coffee</td>
+      <td align="center"><b>Environment</b><br/>💻 VS Code (Dark)</td>
+      <td align="center"><b>Focus</b><br/>🧠 Deep Work</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<p align="center">
+  <i>"I code in logic, but I dream in design."</i>
 </p>
 
