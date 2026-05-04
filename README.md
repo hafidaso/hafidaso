@@ -65,7 +65,7 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 ---
 
-### ⚙️ سير العمل والقيم | Workflow & Core Values
+### ⚙️ Workflow & Core Values
 
 <div align="center">
   <img src="https://img.shields.io/badge/Problem_Solving-Expert-brightgreen?style=for-the-badge&logo=target" />
@@ -79,16 +79,16 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 <div align="center">
   <table>
     <tr>
-      <td>🛠️ <b>منهجية العمل</b></td>
-      <td>أعتمد على منهجية الـ <b>Agile</b> لضمان سرعة التنفيذ وجودة المخرجات.</td>
+      <td>🛠️ <b>Workflow</b></td>
+      <td>I adopt **Agile** methodologies to ensure rapid delivery and high-quality outcomes.</td>
     </tr>
     <tr>
-      <td>💡 <b>الفلسفة التقنية</b></td>
-      <td>الكود النظيف والتصميم البسيط هما مفتاح النجاح لأي منتج ذكي.</td>
+      <td>💡 <b>Philosophy</b></td>
+      <td>Clean code and minimalist design are the keys to success for any intelligent product.</td>
     </tr>
     <tr>
-      <td>🤝 <b>التعاون</b></td>
-      <td>أؤمن بقوة العمل الجماعي ومشاركة المعرفة مع مجتمع المطورين.</td>
+      <td>🤝 <b>Collaboration</b></td>
+      <td>I believe in the power of teamwork and sharing knowledge with the developer community.</td>
     </tr>
   </table>
 </div>
@@ -153,7 +153,7 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Soundtrack</b><br/>🎵 <a href="https://open.spotify.com/playlist/37i9dQZF1DWZeKzbUnE3Yv" target="_blank">Lo-Fi Beats</a></td>
+      <td align="center"><b>Soundtrack</b><br/>🎧 <a href="https://open.spotify.com/playlist/6zCID88oNjNv9zx6puDHKj" target="_blank">My Coding Mix</a></td>
       <td align="center"><b>Fuel</b><br/>☕ Black Coffee</td>
       <td align="center"><b>Environment</b><br/>💻 VS Code (Dark)</td>
       <td align="center"><b>Focus</b><br/>🧠 Deep Work</td>
