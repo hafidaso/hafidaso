@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/French-Professional-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Fluent-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafidaso&label=Profile%20Intelligence&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -104,6 +110,16 @@ I am a **Data Scientist** and **AI Architect** dedicated to building the next ge
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=hafidaso&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📜 Certifications & Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Certification-Google_Data_Analytics-blue?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Certification-Deep_Learning_Specialization-orange?style=flat-square&logo=coursera" />
+  <img src="https://img.shields.io/badge/Achievement-AI_Hackathon_Finalist-brightgreen?style=flat-square&logo=github" />
 </div>
 
 ---
